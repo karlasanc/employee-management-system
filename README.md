@@ -52,14 +52,14 @@ _This template doesn't rely on any external dependencies or services._
 3. Execute the script using your preferred Python environment.
 
 ### Usage
-[![Project Screen Shot][main-menu-screenshot]]
+![Project Screen Shot][main-menu-screenshot]
 * Once the program is running, you will be presented with a menu option. Choose an option by entering the corresponding number and press Enter.
 
 * Follow the prompts to add, view, search, update, export, and import emplouyee information as needed.
-[![Project Screen Shot][add-new-screenshot]]
+![Project Screen Shot][add-new-screenshot]
 
 * Continue interacting with the program until you choose to exit by selecting the "0" option.
-[![Project Screen Shot][update-screenshot]]
+![Project Screen Shot][update-screenshot]
 
 ### Feature Roadmap
 I am working on adding the following featues:
