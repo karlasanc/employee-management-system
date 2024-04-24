@@ -5,6 +5,10 @@
 <div align="center">
   <h3 align="center">Employment Management System</h3>
 
+  <a href="https://github.com/karlasanc/employee-management-system">
+    <img src="/images/main_menu.png" alt="Logo" width="400" height="200">
+  </a>
+
   <p align="center">
     An Employee Management System to handle employee data a little bit faster!
     <br />
@@ -12,10 +16,6 @@
     ·
     <a href="https://github.com/karlasanc/employee-management-system/issues">Report Bug</a>
   </p>
-  
-  <a href="https://github.com/karlasanc/employee-management-system">
-    <img src="images/menu.png" alt="Logo" width="400" height="200">
-  </a>
   <br />
 </div>
 
@@ -52,14 +52,14 @@ _This template doesn't rely on any external dependencies or services._
 3. Execute the script using your preferred Python environment.
 
 ### Usage
-![Project Screen Shot][main-menu-screenshot]
 * Once the program is running, you will be presented with a menu option. Choose an option by entering the corresponding number and press Enter.
+<br/><img src="/images/main_menu.png" alt="Logo" width="400" height="200">
 
 * Follow the prompts to add, view, search, update, export, and import emplouyee information as needed.
-![Project Screen Shot][add-new-screenshot]
+<br/><img src="/images/add_new.png" alt="Logo" width="400" height="200">
 
 * Continue interacting with the program until you choose to exit by selecting the "0" option.
-![Project Screen Shot][update-screenshot]
+<br/><img src="/images/update.png" alt="Logo" width="400" height="200">
 
 ### Feature Roadmap
 I am working on adding the following featues:
@@ -68,10 +68,3 @@ I am working on adding the following featues:
     - [ ] Spanish
      
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[main-menu-screenshot]: images/main_menu.png
-[add-new-screenshot]: images/add_new.png
-[update-screenshot]: images/update.png
