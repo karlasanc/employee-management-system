@@ -12,7 +12,7 @@
   <p align="center">
     An Employee Management System to handle employee data a little bit faster!
     <br />
-    <a href="https://github.com/karlasanc/employee-management-system">View Demo</a>
+    <a href="https://go.screenpal.com/watch/cZfTcvVMbWQ">View Demo</a>
     ·
     <a href="https://github.com/karlasanc/employee-management-system/issues">Report Bug</a>
   </p>
